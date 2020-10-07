@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="greeting_message">Hello %s!</string>
+    <string name="weather_use_gps" />
+    <string name="weather_city_label" />
+    <string name="weather_query_forecast" />
+    <string name="weather_forecast_today" />
+    <string name="weather_forecast_tomorrow" />
+    <string name="weather_forecast_after_tomorrow" />
+    <string name="weather_condition_default" />
+    <string name="weather_temperature_label" />
+    <string name="weather_min_temperature_label" />
+    <string name="weather_temperature_default" />
+    <string name="weather_avg_temperature_label" />
+    <string name="weather_max_temperature_label" />
+    <string name="weather_iconurl_format">http://openweathermap.org/img/wn/%s@2x.png</string>
+
+</resources>
